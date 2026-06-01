@@ -2,9 +2,13 @@
 
 # Senuja Ekanayaka
 
-### Software Engineering Undergraduate | Full-Stack Developer | AI Enthusiast
+### Software Engineering Undergraduate • Full-Stack Developer • AI Enthusiast
 
-Building scalable software, intelligent systems, and user-focused applications.
+Building modern applications, intelligent systems, and scalable software solutions.
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-senuja1-181717?style=for-the-badge&logo=github)](https://github.com/senuja1)
 
 </div>
 
@@ -12,101 +16,133 @@ Building scalable software, intelligent systems, and user-focused applications.
 
 ## About Me
 
-I am a Software Engineering undergraduate at NSBM Green University with a strong interest in software development, backend engineering, artificial intelligence, and modern application architecture.
+I am a Software Engineering undergraduate at NSBM Green University with a strong passion for software development, artificial intelligence, backend engineering, and modern application architecture.
 
-My goal is to build reliable, high-quality software solutions while continuously expanding my knowledge of emerging technologies.
-
----
-
-## Core Competencies
-
-- Full-Stack Web Development
-- Backend Development
-- REST API Design
-- Software Architecture
-- Artificial Intelligence
-- Database Design
-- Mobile Application Development
+I enjoy transforming ideas into reliable software products and continuously improving my skills through practical projects and emerging technologies.
 
 ---
 
-## Technology Stack
+## Technical Expertise
 
-### Languages
+### Programming Languages
 
-Java • Python • JavaScript • HTML • CSS
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,c" />
+</p>
 
 ### Frameworks & Technologies
 
-Spring Boot • React • Flutter • Bootstrap • Flask
+<p>
+<img src="https://skillicons.dev/icons?i=spring,react,flutter,bootstrap,flask,nodejs" />
+</p>
 
 ### Databases
 
-MySQL • Firebase
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</p>
 
-### Tools
+### Development Tools
 
-Git • GitHub • VS Code • IntelliJ IDEA • Android Studio
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio" />
+</p>
 
 ---
 
-## GitHub Statistics
+## GitHub Analytics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=senuja1&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senuja1&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=senuja1&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senuja1&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
 
 ---
 
 ## Featured Projects
 
-### Explore.lk
-Tourism platform focused on helping travelers discover Sri Lanka's destinations, culture, and experiences.
-
-### Sinovex AI
-Artificial intelligence project exploring automation, intelligent assistants, and productivity solutions.
-
 ### MediNear Care
-Smart medicine availability and pharmacy delivery platform with personalized healthcare features.
+Smart medicine availability and pharmacy delivery platform designed to improve healthcare accessibility through personalized features and location-based services.
 
-### Zestora Juice Bar
-Modern responsive business website demonstrating front-end development principles.
+**Technologies:** Flutter, Firebase, Google Maps API
 
 ---
 
-## Current Focus
+### Explore.lk
+Tourism platform showcasing Sri Lanka's destinations, culture, accommodation, and travel experiences.
 
-- Advanced Spring Boot Development
-- Flutter Application Development
-- Artificial Intelligence Integration
-- Clean Architecture
-- Cloud Technologies
-- Open Source Contributions
+**Technologies:** HTML, CSS, JavaScript, Bootstrap
+
+---
+
+### Sinovex AI
+AI-powered assistant project focused on intelligent automation, productivity enhancement, and conversational interfaces.
+
+**Technologies:** Python, AI APIs, Machine Learning
+
+---
+
+### Zestora Juice Bar
+Modern business website featuring responsive design and user-friendly customer experience.
+
+**Technologies:** HTML, CSS, JavaScript
 
 ---
 
 ## Education
 
-**NSBM Green University**  
+### NSBM Green University
+
 Bachelor's Degree in Software Engineering
+
+Relevant Areas:
+
+- Software Engineering
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Web Application Development
+- Database Systems
+- Mobile Application Development
+
+---
+
+## Current Focus
+
+- Flutter Development
+- Spring Boot Development
+- REST API Design
+- Artificial Intelligence
+- Clean Architecture
+- Cloud Technologies
 
 ---
 
 ## Professional Values
 
 - Clean Code
-- Scalable Systems
+- Scalability
+- Maintainability
 - Continuous Learning
 - Problem Solving
 - User-Centered Design
 
 ---
 
-## Contact
+## Goals for 2026
 
-GitHub: https://github.com/senuja1
+- Build Production-Ready Applications
+- Master Spring Boot & Flutter
+- Contribute to Open Source
+- Develop AI-Powered Solutions
+- Strengthen Software Architecture Skills
 
 ---
 
-> "Building software that creates meaningful impact."
+<div align="center">
+
+### Building software that solves real-world problems.
+
+</div>
