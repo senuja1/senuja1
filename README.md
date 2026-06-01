@@ -4,27 +4,29 @@
 
 ### Software Engineering Undergraduate • Full-Stack Developer • AI Enthusiast
 
-Building modern applications, intelligent systems, and scalable software solutions.
+Building scalable software, modern web applications, intelligent systems, and impactful digital experiences.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-senuja1-181717?style=for-the-badge&logo=github)](https://github.com/senuja1)
+<a href="https://github.com/senuja1">
+  <img src="https://img.shields.io/badge/GitHub-senuja1-181717?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
 ---
 
-## About Me
+# About Me
 
-I am a Software Engineering undergraduate at NSBM Green University with a strong passion for software development, artificial intelligence, backend engineering, and modern application architecture.
+I am a Software Engineering undergraduate at NSBM Green University with a strong interest in software engineering, full-stack development, artificial intelligence, and scalable application design.
 
-I enjoy transforming ideas into reliable software products and continuously improving my skills through practical projects and emerging technologies.
+My focus is on developing high-quality software solutions that combine clean architecture, modern user experiences, and practical real-world value.
 
 ---
 
-## Technical Expertise
+# Technical Skills
 
-### Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,c" />
@@ -33,7 +35,7 @@ I enjoy transforming ideas into reliable software products and continuously impr
 ### Frameworks & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,react,flutter,bootstrap,flask,nodejs" />
+<img src="https://skillicons.dev/icons?i=spring,flutter,react,nodejs,bootstrap,flask" />
 </p>
 
 ### Databases
@@ -50,99 +52,111 @@ I enjoy transforming ideas into reliable software products and continuously impr
 
 ---
 
-## GitHub Analytics
+# Featured Projects
 
-<div align="center">
+## MediNear Care
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=senuja1&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+A smart medicine availability and pharmacy delivery platform designed to improve healthcare accessibility through location-based services, caregiver support, prescription uploads, and emergency assistance features.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senuja1&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
+**Stack:** Flutter • Firebase • Google Maps API
 
 ---
 
-## Featured Projects
+## Sinovex AI
 
-### MediNear Care
-Smart medicine availability and pharmacy delivery platform designed to improve healthcare accessibility through personalized features and location-based services.
+An AI-powered assistant focused on intelligent automation, conversational interfaces, productivity enhancement, and modern AI integrations.
 
-**Technologies:** Flutter, Firebase, Google Maps API
-
----
-
-### Explore.lk
-Tourism platform showcasing Sri Lanka's destinations, culture, accommodation, and travel experiences.
-
-**Technologies:** HTML, CSS, JavaScript, Bootstrap
+**Stack:** Python • AI APIs • Machine Learning
 
 ---
 
-### Sinovex AI
-AI-powered assistant project focused on intelligent automation, productivity enhancement, and conversational interfaces.
+## Explore.lk
 
-**Technologies:** Python, AI APIs, Machine Learning
+A tourism platform showcasing Sri Lanka's destinations, culture, accommodations, attractions, and travel experiences.
 
----
-
-### Zestora Juice Bar
-Modern business website featuring responsive design and user-friendly customer experience.
-
-**Technologies:** HTML, CSS, JavaScript
+**Stack:** HTML • CSS • JavaScript • Bootstrap
 
 ---
 
-## Education
+## Zestora Juice Bar
+
+A responsive business website designed with modern UI/UX principles and optimized customer experiences.
+
+**Stack:** HTML • CSS • JavaScript
+
+---
+
+# Education
 
 ### NSBM Green University
 
-Bachelor's Degree in Software Engineering
+Bachelor of Science in Software Engineering
 
 Relevant Areas:
 
-- Software Engineering
 - Object-Oriented Programming
 - Data Structures & Algorithms
-- Web Application Development
+- Software Engineering
 - Database Systems
 - Mobile Application Development
+- Web Application Development
 
 ---
 
-## Current Focus
+# Current Focus
 
 - Flutter Development
 - Spring Boot Development
 - REST API Design
 - Artificial Intelligence
-- Clean Architecture
+- Software Architecture
 - Cloud Technologies
 
 ---
 
-## Professional Values
+# Development Principles
 
-- Clean Code
-- Scalability
-- Maintainability
+- Clean Architecture
+- Scalable Design
+- Maintainable Code
+- User-Centered Development
 - Continuous Learning
 - Problem Solving
-- User-Centered Design
 
 ---
 
-## Goals for 2026
+# 2026 Goals
 
-- Build Production-Ready Applications
-- Master Spring Boot & Flutter
-- Contribute to Open Source
-- Develop AI-Powered Solutions
-- Strengthen Software Architecture Skills
+- Build Production-Ready Software Products
+- Master Flutter & Spring Boot
+- Expand AI Development Skills
+- Contribute to Open Source Projects
+- Strengthen System Design Knowledge
+- Develop Industry-Level Applications
+
+---
+
+# Repository Highlights
+
+| Project | Description |
+|----------|-------------|
+| MediNear Care | Smart healthcare and pharmacy platform |
+| Sinovex AI | AI assistant and automation system |
+| Explore.lk | Tourism and travel platform |
+| Zestora Juice Bar | Responsive business website |
+| Burger Shop | Restaurant management website |
+| Future Spring Boot Project | Enterprise backend application |
+
+---
+
+# Connect
+
+GitHub: https://github.com/senuja1
 
 ---
 
 <div align="center">
 
-### Building software that solves real-world problems.
+### Software Engineering • Innovation • Continuous Improvement
 
 </div>
