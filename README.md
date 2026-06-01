@@ -2,9 +2,15 @@
 
 # Senuja Ekanayaka
 
-### Software Engineering Student • Full-Stack Developer • AI Enthusiast
+### Software Engineering Undergraduate | Full-Stack Developer | AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Full-Stack+Web+Developer;AI+and+Automation+Enthusiast;Building+Real-World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
+<p>
+Building scalable software, intelligent systems, and modern web applications.
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=senuja1&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 </div>
 
@@ -12,131 +18,111 @@
 
 ## About Me
 
-I am a Software Engineering student passionate about building modern web applications, intelligent systems, and practical software solutions.
+I am a Software Engineering undergraduate passionate about designing and developing modern software solutions.
 
-My interests include:
+My primary interests include:
 
 - Full-Stack Web Development
+- Backend Engineering
 - Artificial Intelligence
-- Software Engineering
-- Backend Development
-- Cloud Technologies
-- Mobile Applications
+- Software Architecture
+- Cloud Computing
+- Mobile Application Development
 
-I enjoy transforming ideas into functional products while continuously improving my technical and problem-solving skills.
+I enjoy transforming ideas into reliable, user-focused products while continuously expanding my technical expertise.
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-### Languages
+### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,c" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,bootstrap,flask" />
-</p>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase" />
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=senuja1&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senuja1&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-### Development Tools
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio" />
+## Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=senuja1&theme=github-dark-blue&hide_border=true" />
 </p>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=senuja1&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senuja1&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=senuja1&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## GitHub Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=senuja1&theme=tokyo-night&hide_border=true" />
-
-</div>
 
 ---
 
 ## Featured Projects
 
 ### Explore.lk
-Tourism platform focused on showcasing Sri Lanka's attractions, culture, and travel experiences.
+Tourism platform designed to help travelers discover Sri Lanka's destinations, culture, and experiences.
 
 ### Sinovex AI
-AI-powered assistant project exploring automation, intelligent interactions, and productivity enhancement.
+AI-powered assistant project focused on intelligent automation and productivity.
 
 ### Zestora Juice Bar
-Modern responsive website for a juice and beverage business.
+Modern responsive business website with clean UI/UX principles.
 
 ### Burger Shop
-Restaurant website featuring responsive design and user-friendly navigation.
+Responsive restaurant website demonstrating front-end development practices.
 
 ---
 
-## Current Learning Journey
+## Current Focus
 
-- Advanced Java Development
-- Spring Boot
-- REST API Development
-- Artificial Intelligence
-- System Design
-- Cloud Computing
-
----
-
-## Achievements
-
-- Software Engineering Undergraduate
-- Team Project Leadership Experience
-- Full-Stack Development Projects
-- AI Application Development
+- Spring Boot Development
+- REST API Design
+- AI Integration
+- Software Architecture
+- Cloud Technologies
+- Open Source Contributions
 
 ---
 
-## Connect
+## Education
 
-<p align="center">
-<a href="https://github.com/senuja1">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
-</a>
-</p>
+**NSBM Green University**  
+Bachelor's Degree in Software Engineering
+
+---
+
+## Professional Philosophy
+
+> Clean Code. Scalable Systems. Continuous Learning.
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=senuja1&color=blue&style=for-the-badge)
-
-### "Building software that solves real-world problems."
+### Let's Build Something Meaningful
 
 </div>
